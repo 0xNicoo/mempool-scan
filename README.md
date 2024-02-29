@@ -12,6 +12,8 @@ npm install
 
 ### Run project
 
+El programa recibe un parametro el cual es el tiempo (en minutos) de cuanto va durar la toma de datos.
+
 ```
-node index.js
+node index.js tiempo_en_minutos
 ```
