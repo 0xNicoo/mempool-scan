@@ -1,0 +1,4 @@
+node_modules/
+.env
+datos.csv
+scatter_plot.html
